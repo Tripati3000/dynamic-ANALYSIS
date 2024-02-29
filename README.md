@@ -9,9 +9,14 @@ Download the following
 
  # Walkthrough analysis
 
- - open the tabs of Process Hacker, Wireshark , Regshot 👍
+ - Open the tabs of Process Hacker, Wireshark , Regshot 👍
  - Click to Wireshark "Ethernet"
  - Click to "1st shot"
+
+<img src="https://github.com/Tripati3000/dynamic-ANALYSIS/assets/160244601/212f192d-fecb-4eb5-9446-4d95351f3a67" height="80%" width="80%" alt="SIEM System steps"/>
+
+- it will take some time for 1st regshot
+- After its completion open Procmon 👍
 
 <img src="https://github.com/Tripati3000/dynamic-ANALYSIS/assets/160244601/212f192d-fecb-4eb5-9446-4d95351f3a67" height="80%" width="80%" alt="SIEM System steps"/>
 
