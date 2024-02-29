@@ -5,4 +5,4 @@ Download the following
 - [Regshot](https://sourceforge.net/projects/regshot/) for viewing before malware attack and after malware attack
 - [procomon](https://learn.microsoft.com/en-us/sysinternals/downloads/procmon) for viewing Suspicious activities of malware
 - [process hacker](https://processhacker.sourceforge.io/downloads.php) for viewing Suspicious activities of malware
-- 
+- [Wireshark](https://www.wireshark.org/) for viewing which server the malware is connected 
