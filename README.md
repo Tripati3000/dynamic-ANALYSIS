@@ -7,5 +7,5 @@ Download the following
 - [process hacker](https://processhacker.sourceforge.io/downloads.php) for viewing Suspicious activities of malware
 - [Wireshark](https://www.wireshark.org/) for viewing which server the malware is connected and steals the data and send it to the malware author
 
-<img src="https://github.com/Tripati3000/Malware_analysislab/assets/160244601/a83422ec-a825-498e-bb20-ba506e58902a " height="80%" width="80%" alt="SIEM System steps"/>
+<img src="https://github.com/Tripati3000/dynamic-ANALYSIS/assets/160244601/c33bd6f2-1dc7-4f66-a15d-83b99369b49e" height="80%" width="80%" alt="SIEM System steps"/>
 
