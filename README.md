@@ -18,5 +18,9 @@ Download the following
 - it will take some time for 1st regshot
 - After its completion open Procmon 👍
 
-<img src="https://github.com/Tripati3000/dynamic-ANALYSIS/assets/160244601/212f192d-fecb-4eb5-9446-4d95351f3a67" height="80%" width="80%" alt="SIEM System steps"/>
+<img src="https://github.com/Tripati3000/dynamic-ANALYSIS/assets/160244601/d9446b20-2d35-4cd4-8641-cbbd2379aca8" height="80%" width="80%" alt="SIEM System steps"/>
 
+- Now, Extract the malware sample you downloaded 
+- Rename it to (filename`.exe`) exe means it can execute 👍
+- then Right click the file and click `Run it as an administrator`
+- Wait 4 to 5 minutes and check the activities of Malware
