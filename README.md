@@ -9,9 +9,9 @@ Download the following
 
  # Walkthrough analysis
 
- - open the tabs of these apps
+ - open the tabs of Process Hacker, Wireshark , Regshot 👍
  - Click to Wireshark "Ethernet"
  - Click to "1st shot"
 
-<img src="https://github.com/Tripati3000/dynamic-ANALYSIS/assets/160244601/c33bd6f2-1dc7-4f66-a15d-83b99369b49e" height="80%" width="80%" alt="SIEM System steps"/>
+<img src="https://github.com/Tripati3000/dynamic-ANALYSIS/assets/160244601/212f192d-fecb-4eb5-9446-4d95351f3a67" height="80%" width="80%" alt="SIEM System steps"/>
 
