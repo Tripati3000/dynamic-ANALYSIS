@@ -113,7 +113,7 @@ The malware files can be located in these:
 
 - Type `Windows + R`
 - 
-- <img src="https://github.com/Tripati3000/dynamic-ANALYSIS/assets/160244601/81a017bb-aabb-4ff7-8334-717f3c3f4a56" height="80%" width="80%" alt="SIEM System steps"/>
+- <img src="https://github.com/Tripati3000/dynamic-ANALYSIS/assets/160244601/2f9c1d21-7437-4478-95fd-bb79f11ff450" height="80%" width="80%" alt="SIEM System steps"/>
 
 - Search `%temp%` (if it not have then try these two)
 - `shell:startup`
