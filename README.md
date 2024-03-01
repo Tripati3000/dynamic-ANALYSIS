@@ -24,3 +24,10 @@ Download the following
 - Rename it to (filename`.exe`) exe means it can execute 👍
 - then Right click the file and click `Run it as an administrator`
 - Wait 4 to 5 minutes and check the activities of Malware
+
+# Investigation of process activities 🔍
+
+ Open "Wireshark"  and "process hacker" and capture the activities by clicking those buttons👇
+
+ <img src="https://github.com/Tripati3000/dynamic-ANALYSIS/assets/160244601/d9446b20-2d35-4cd4-8641-cbbd2379aca8" height="80%" width="80%" alt="SIEM System steps"/>
+ 
