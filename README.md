@@ -70,4 +70,4 @@ We have to investigate that the malware which steals our data transfer to which 
 - DNS (domain name system) `server`
 <img src="https://github.com/Tripati3000/dynamic-ANALYSIS/assets/160244601/6ae154d8-681c-4fbe-afc4-0dd1c353aebc" height="80%" width="80%" alt="SIEM System steps"/>
 <img src="https://github.com/Tripati3000/dynamic-ANALYSIS/assets/160244601/656ca414-3334-4c79-aa3c-78e4bb27a287" height="80%" width="80%" alt="SIEM System steps"/>
-<img src="https://github.com/Tripati3000/dynamic-ANALYSIS/assets/160244601/33c6f06f-3abd-41a6-bdd2-ded5163ebbd6" height="80%" width="80%" alt="SIEM System steps"/>
+<img src="https://github.com/Tripati3000/dynamic-ANALYSIS/assets/160244601/b3d98b17-2183-4e6a-83da-d049175ffe90" height="80%" width="80%" alt="SIEM System steps"/>
