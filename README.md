@@ -109,19 +109,19 @@ For example
 
 **we can analyse it by two ways**
 
-The malware files can be located in these:
+The malware files can be hidden and located in folders:
 
 - Type `Windows + R`
 - 
 - <img src="https://github.com/Tripati3000/dynamic-ANALYSIS/assets/160244601/2f9c1d21-7437-4478-95fd-bb79f11ff450" height="80%" width="80%" alt="SIEM System steps"/>
 
-- Search `%temp%` (if it not have then try these two)
+- Search `%TEMP%` (if it not have then try these two)
 - `shell:startup`
                or
           `shell:common startup`
   
   <img src="https://github.com/Tripati3000/dynamic-ANALYSIS/assets/160244601/8a3a95eb-2f05-498a-a5d6-abd368953953 " height="80%" width="80%" alt="SIEM System steps"/>
-  <img src="https://github.com/Tripati3000/dynamic-ANALYSIS/assets/160244601/8a3a95eb-2f05-498a-a5d6-abd368953953 " height="80%" width="80%" alt="SIEM System steps"/>
+  <img src="https://github.com/Tripati3000/dynamic-ANALYSIS/assets/160244601/f56102ca-bb9b-41fb-9964-c243480fc2a2 " height="80%" width="80%" alt="SIEM System steps"/>
 
 - Or you can use procmon by finding 
 - `C:\Users\Username\Appdata\Roaming\directory` Have under an `.exe` file
