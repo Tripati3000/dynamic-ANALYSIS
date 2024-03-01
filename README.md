@@ -35,6 +35,9 @@ Download the following
 
  <img src="https://github.com/Tripati3000/dynamic-ANALYSIS/assets/160244601/625c2ea3-1654-49fa-8860-3c59013430c0" height="80%" width="80%" alt="SIEM System steps"/>
 
+
+
+
  
 
   **Mark the points** : we have to find processes of malware activities like you can see here or catch any thing that looks like malware
@@ -42,12 +45,15 @@ Download the following
 
  <img src="https://github.com/Tripati3000/dynamic-ANALYSIS/assets/160244601/7fb6c306-4909-45ec-b84d-bbaa9b53b333" height="80%" width="80%" alt="SIEM System steps"/>
 
+
+ 
+
  **Mark my points** : Open up your windows task scheduler >>> Updates you can see that new malware is running on it for more Double click it Go to Triggers you see ( at log on ) and Go to actions you see ( Start a program )
 
  
  <img src="https://github.com/Tripati3000/dynamic-ANALYSIS/assets/160244601/57694ea2-a6b2-4606-839b-94c7495c92ea" height="80%" width="80%" alt="SIEM System steps"/>
 
  
-<img src="https://github.com/Tripati3000/dynamic-ANALYSIS/assets/160244601/7fb6c306-4909-45ec-b84d-bbaa9b53b333" height="80%" width="80%" alt="SIEM System steps"/>
+<img src="https://github.com/Tripati3000/dynamic-ANALYSIS/assets/160244601/33c6f06f-3abd-41a6-bdd2-ded5163ebbd6" height="80%" width="80%" alt="SIEM System steps"/>
 
  
