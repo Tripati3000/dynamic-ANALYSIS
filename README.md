@@ -78,11 +78,21 @@ We have to investigate that the malware which steals our data transfer to which 
 Paste the Ip address here - https://ip-geolocation.whoisxmlapi.com/api
 Or you can use - https://www.abuseipdb.com/
 
+# Investigation of Registry 🔍
 
 
-Open **Regshot** and click **2nd shot** Because we want to compare 1st shot and 2nd shot like before malware amd after malware what things have done in our virtual box 👍
+Open **Regshot** and click **2nd shot** Because we want to compare 1st shot and 2nd shot like before malware amd after malware what things have done in our virtual box 👍 after that click "compare" down below 2nd shot
 
 <img src="https://github.com/Tripati3000/dynamic-ANALYSIS/assets/160244601/22d5fa87-7649-4d26-b510-e8cdec8fded2" height="80%" width="80%" alt="SIEM System steps"/>
 
+**Open up regshot and find these keywords :**
+
+- HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Run
+
+- HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\RunOnce
+
+- HKEY_LOCAL_MACHINE\Software\Microsoft\Windows\CurrentVersion\Run
+
+- HKEY_LOCAL_MACHINE\Software\Microsoft\Windows\CurrentVersion\RunOnce
 
 
