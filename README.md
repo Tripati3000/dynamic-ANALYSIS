@@ -40,15 +40,18 @@ Download the following
 
  
 
-  **Mark the points** : we have to find processes of malware activities like you can see here or catch any thing that looks like malware
+  # Mark the points 
+  we have to find processes of malware activities like you can see here or catch any thing that looks like malware
  As we can see that Malware processes running `powershell``conhost``schtasks.exe` it means if malware starts processing a task scheduler which is schtasks.exe then it will download another malware at certain conditions were if we try to delete it then it will download again and hide itself this is called **PERSISTENCE**
+ - when a new process created you can see its under in which the process is running were ( new process called child process and the process under the process created called parent process)
 
  <img src="https://github.com/Tripati3000/dynamic-ANALYSIS/assets/160244601/7fb6c306-4909-45ec-b84d-bbaa9b53b333" height="80%" width="80%" alt="SIEM System steps"/>
 
 
  
 
- **Mark my points** : Open up your windows task scheduler >>> Updates you can see that new malware is running on it for more Double click it Go to Triggers you see ( at log on ) and Go to actions you see ( Start a program )
+ # Mark the points
+ Open up your windows task scheduler >>> Updates 👍 you can see that new malware is running on it for more Double click it Go to Triggers you see ( at log on ) and Go to actions you see ( Start a program ) it means its the malware is running 
 
  
  <img src="https://github.com/Tripati3000/dynamic-ANALYSIS/assets/160244601/57694ea2-a6b2-4606-839b-94c7495c92ea" height="80%" width="80%" alt="SIEM System steps"/>
@@ -56,4 +59,17 @@ Download the following
  
 <img src="https://github.com/Tripati3000/dynamic-ANALYSIS/assets/160244601/33c6f06f-3abd-41a6-bdd2-ded5163ebbd6" height="80%" width="80%" alt="SIEM System steps"/>
 
+
+# Investigation of Network Activities 🔍
+
+We have to investigate that the malware which steals our data transfer to which author by these networks (sometime it works sometimes its not)
+
+Open Wireshark 🦈 And here we need to search for 3 things :
+- SMTP (simple mail transfer protocol) `email`
+- http (hypertext transfer protocol) `website`
+- DNS (domain name system) `server`
+
+- 
+
+- 
  
