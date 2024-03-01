@@ -68,6 +68,6 @@ We have to investigate that the malware which steals our data transfer to which 
 - SMTP (simple mail transfer protocol) `email`
 - http (hypertext transfer protocol) `website`
 - DNS (domain name system) `server`
-<img src="https://github.com/Tripati3000/dynamic-ANALYSIS/assets/160244601/33c6f06f-3abd-41a6-bdd2-ded5163ebbd6" height="80%" width="80%" alt="SIEM System steps"/>
+<img src="https://github.com/Tripati3000/dynamic-ANALYSIS/assets/160244601/6ae154d8-681c-4fbe-afc4-0dd1c353aebc" height="80%" width="80%" alt="SIEM System steps"/>
 <img src="https://github.com/Tripati3000/dynamic-ANALYSIS/assets/160244601/33c6f06f-3abd-41a6-bdd2-ded5163ebbd6" height="80%" width="80%" alt="SIEM System steps"/>
 <img src="https://github.com/Tripati3000/dynamic-ANALYSIS/assets/160244601/33c6f06f-3abd-41a6-bdd2-ded5163ebbd6" height="80%" width="80%" alt="SIEM System steps"/>
