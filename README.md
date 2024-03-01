@@ -131,6 +131,6 @@ To find these go to procomon >>> process tree >>> right click the malware.exe fi
 
 Now you can see only file activities of malware 👍 in which we cannot find such activities running 😅
 
-<img src="https://github.com/Tripati3000/dynamic-ANALYSIS/assets/160244601/22d5fa87-7649-4d26-b510-e8cdec8fded2" height="80%" width="80%" alt="SIEM System steps"/>
+<img src="https://github.com/Tripati3000/dynamic-ANALYSIS/assets/160244601/1589646b-11e7-4f3f-ade8-3a6b0dddf54c" height="80%" width="80%" alt="SIEM System steps"/>
 
 We can analyse it by two ways
