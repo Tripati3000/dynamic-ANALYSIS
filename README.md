@@ -40,7 +40,14 @@ Download the following
   **Mark the points** : we have to find processes of malware activities like you can see here or catch any thing that looks like malware
  As we can see that Malware processes running `powershell``conhost``schtasks.exe` it means if malware starts processing a task scheduler which is schtasks.exe then it will download another malware at certain conditions were if we try to delete it then it will download again and hide itself this is called **PERSISTENCE**
 
- <img src="https://github.com/Tripati3000/dynamic-ANALYSIS/assets/160244601/625c2ea3-1654-49fa-8860-3c59013430c0" height="80%" width="80%" alt="SIEM System steps"/>
+ <img src="https://github.com/Tripati3000/dynamic-ANALYSIS/assets/160244601/7fb6c306-4909-45ec-b84d-bbaa9b53b333" height="80%" width="80%" alt="SIEM System steps"/>
+
+ **Mark my points** : Open up your windows task scheduler >>> Updates you can see that new malware is running on it for more Double click it Go to Triggers you see ( at log on ) and Go to actions you see ( Start a program )
 
  
+ <img src="https://github.com/Tripati3000/dynamic-ANALYSIS/assets/160244601/7fb6c306-4909-45ec-b84d-bbaa9b53b333" height="80%" width="80%" alt="SIEM System steps"/>
+
+ 
+<img src="https://github.com/Tripati3000/dynamic-ANALYSIS/assets/160244601/7fb6c306-4909-45ec-b84d-bbaa9b53b333" height="80%" width="80%" alt="SIEM System steps"/>
+
  
