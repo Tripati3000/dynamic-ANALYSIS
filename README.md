@@ -51,8 +51,10 @@ Download the following
  
 
  # Mark the points
- Open up your windows task scheduler >>> Updates 👍 you can see that new malware is running on it for more Double click it Go to Triggers you see ( at log on ) and Go to actions you see ( Start a program ) it means its the malware is running 
+Open up your windows task scheduler >>> Updates 👍 you can see that new malware🔍 for more Double click it Go to Triggers you see ( at log on ) and Go to actions you see ( Start a program ) 
+You can see in the screenshot that the malicious software named “VbxFiQYCyFDgGL.exe” prepared by the attacker will run when this scheduled task runs.
 
+This is how we have detected the scheduled task that the attacker added.
  
  <img src="https://github.com/Tripati3000/dynamic-ANALYSIS/assets/160244601/57694ea2-a6b2-4606-839b-94c7495c92ea" height="80%" width="80%" alt="SIEM System steps"/>
 
@@ -96,6 +98,39 @@ Open **Regshot** and click **2nd shot** Because we want to compare 1st shot and 
 
 - HKEY_LOCAL_MACHINE\Software\Microsoft\Windows\CurrentVersion\RunOnce
 
--  Or Malwre name 
+when the operating system started windows keep application running so resgistry means the data storage of any specific apps the user uses and thats taken advantage by the attackers and adding their own malicious registry keys
+
+When we look at the registry, 
+For example
+- we check a specific area called "XYZ\Software\WOW3452Node\Microsoft\Windows\CurrrentVersion\Uninstall." Here, applications leave behind information about how they can be uninstalled. Attackers sometimes install their own software and hide it here. So, it's smart to check this area to find any sneaky apps installed by attackers.
 
 
+# Investigation of file activities 🔍
+
+**we can analyse it by two ways**
+
+The malware files can be located in these:
+
+- Type `Windows + R`
+- 
+- <img src="https://github.com/Tripati3000/dynamic-ANALYSIS/assets/160244601/22d5fa87-7649-4d26-b510-e8cdec8fded2" height="80%" width="80%" alt="SIEM System steps"/>
+
+- Search `%temp%` (if it not have then try these two)
+- `shell:startup`
+               or
+          `shell:common startup`
+  
+  <img src="https://github.com/Tripati3000/dynamic-ANALYSIS/assets/160244601/22d5fa87-7649-4d26-b510-e8cdec8fded2" height="80%" width="80%" alt="SIEM System steps"/>
+
+- Or you can use procmon by finding 
+- `C:\Users\Username\Appdata\Roaming\directory` Have under a an `.exe` file
+- Or `C:\Users\Username\Appdata\Roaming\logdata`
+To find these go to procomon >>> process tree >>> right click the malware.exe file >>> Add process and children to include filter
+
+<img src="https://github.com/Tripati3000/dynamic-ANALYSIS/assets/160244601/22d5fa87-7649-4d26-b510-e8cdec8fded2" height="80%" width="80%" alt="SIEM System steps"/>
+
+Now you can see only file activities of malware 👍 in which we cannot find such activities running 😅
+
+<img src="https://github.com/Tripati3000/dynamic-ANALYSIS/assets/160244601/22d5fa87-7649-4d26-b510-e8cdec8fded2" height="80%" width="80%" alt="SIEM System steps"/>
+
+We can analyse it by two ways
