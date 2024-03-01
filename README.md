@@ -127,7 +127,7 @@ The malware files can be located in these:
 - Or `C:\Users\Username\Appdata\Roaming\logdata`
 To find these go to procomon >>> process tree >>> right click the malware.exe file >>> Add process and children to include filter
 
-<img src="https://github.com/Tripati3000/dynamic-ANALYSIS/assets/160244601/22d5fa87-7649-4d26-b510-e8cdec8fded2" height="80%" width="80%" alt="SIEM System steps"/>
+<img src="https://github.com/Tripati3000/dynamic-ANALYSIS/assets/160244601/81309dd5-3b1d-4c70-9502-5974079effae" height="80%" width="80%" alt="SIEM System steps"/>
 
 Now you can see only file activities of malware 👍 in which we cannot find such activities running 😅
 
