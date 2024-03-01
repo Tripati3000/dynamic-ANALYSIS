@@ -30,4 +30,17 @@ Download the following
  Open "Wireshark"  and "process hacker" and capture the activities by clicking those buttons👇
 
  <img src="https://github.com/Tripati3000/dynamic-ANALYSIS/assets/160244601/b4defeb8-7cc1-45b4-8942-be7538078798" height="80%" width="80%" alt="SIEM System steps"/>
+
+ Click to the "Process tree" on process hacker 👇
+
+ <img src="https://github.com/Tripati3000/dynamic-ANALYSIS/assets/160244601/625c2ea3-1654-49fa-8860-3c59013430c0" height="80%" width="80%" alt="SIEM System steps"/>
+
+ 
+
+  **Mark the points** : we have to find processes of malware activities like you can see here or catch any thing that looks like malware
+ As we can see that Malware processes running `powershell``conhost``schtasks.exe` it means if malware starts processing a task scheduler which is schtasks.exe then it will download another malware at certain conditions were if we try to delete it then it will download again and hide itself this is called **PERSISTENCE**
+
+ <img src="https://github.com/Tripati3000/dynamic-ANALYSIS/assets/160244601/625c2ea3-1654-49fa-8860-3c59013430c0" height="80%" width="80%" alt="SIEM System steps"/>
+
+ 
  
