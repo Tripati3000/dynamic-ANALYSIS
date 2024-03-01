@@ -123,7 +123,7 @@ The malware files can be located in these:
   <img src="https://github.com/Tripati3000/dynamic-ANALYSIS/assets/160244601/22d5fa87-7649-4d26-b510-e8cdec8fded2" height="80%" width="80%" alt="SIEM System steps"/>
 
 - Or you can use procmon by finding 
-- `C:\Users\Username\Appdata\Roaming\directory` Have under a an `.exe` file
+- `C:\Users\Username\Appdata\Roaming\directory` Have under an `.exe` file
 - Or `C:\Users\Username\Appdata\Roaming\logdata`
 To find these go to procomon >>> process tree >>> right click the malware.exe file >>> Add process and children to include filter
 
