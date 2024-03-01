@@ -80,6 +80,7 @@ Or you can use - https://www.abuseipdb.com/
 
 # Investigation of Registry 🔍
 
+Registries in Windows are like organized storage areas for important system and application settings. Attackers can exploit them to sneak in malicious software and make it start up whenever the computer boots, helping them steal data and maintain control over the system.
 
 Open **Regshot** and click **2nd shot** Because we want to compare 1st shot and 2nd shot like before malware amd after malware what things have done in our virtual box 👍 after that click "compare" down below 2nd shot
 
@@ -94,5 +95,7 @@ Open **Regshot** and click **2nd shot** Because we want to compare 1st shot and 
 - HKEY_LOCAL_MACHINE\Software\Microsoft\Windows\CurrentVersion\Run
 
 - HKEY_LOCAL_MACHINE\Software\Microsoft\Windows\CurrentVersion\RunOnce
+
+-  Or Malwre name 
 
 
