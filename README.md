@@ -64,12 +64,10 @@ Download the following
 
 We have to investigate that the malware which steals our data transfer to which author by these networks (sometime it works sometimes its not)
 
-Open Wireshark 🦈 And here we need to search for 3 things :
+**Open Wireshark 🦈 And here we need to search for 3 things :**
 - SMTP (simple mail transfer protocol) `email`
 - http (hypertext transfer protocol) `website`
 - DNS (domain name system) `server`
-
-- 
-
-- 
- 
+<img src="https://github.com/Tripati3000/dynamic-ANALYSIS/assets/160244601/33c6f06f-3abd-41a6-bdd2-ded5163ebbd6" height="80%" width="80%" alt="SIEM System steps"/>
+<img src="https://github.com/Tripati3000/dynamic-ANALYSIS/assets/160244601/33c6f06f-3abd-41a6-bdd2-ded5163ebbd6" height="80%" width="80%" alt="SIEM System steps"/>
+<img src="https://github.com/Tripati3000/dynamic-ANALYSIS/assets/160244601/33c6f06f-3abd-41a6-bdd2-ded5163ebbd6" height="80%" width="80%" alt="SIEM System steps"/>
