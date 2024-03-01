@@ -79,3 +79,10 @@ Paste the Ip address here - https://ip-geolocation.whoisxmlapi.com/api
 Or you can use - https://www.abuseipdb.com/
 
 
+
+Open **Regshot** and click **2nd shot** Because we want to compare 1st shot and 2nd shot like before malware amd after malware what things have done in our virtual box 👍
+
+<img src="https://github.com/Tripati3000/dynamic-ANALYSIS/assets/160244601/212f192d-fecb-4eb5-9446-4d95351f3a67" height="80%" width="80%" alt="SIEM System steps"/>
+
+
+
