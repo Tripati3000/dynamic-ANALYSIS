@@ -29,5 +29,5 @@ Download the following
 
  Open "Wireshark"  and "process hacker" and capture the activities by clicking those buttons👇
 
- <img src="https://github.com/Tripati3000/dynamic-ANALYSIS/assets/160244601/d9446b20-2d35-4cd4-8641-cbbd2379aca8" height="80%" width="80%" alt="SIEM System steps"/>
+ <img src="https://github.com/Tripati3000/dynamic-ANALYSIS/assets/160244601/b4defeb8-7cc1-45b4-8942-be7538078798" height="80%" width="80%" alt="SIEM System steps"/>
  
